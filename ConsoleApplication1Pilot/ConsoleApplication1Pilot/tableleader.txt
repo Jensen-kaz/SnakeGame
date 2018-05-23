@@ -1,3 +1,0 @@
-Anton	 Score 70
-Ivan	 Score 25
-w	 Score 5
